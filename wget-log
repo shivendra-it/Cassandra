@@ -1,0 +1,3 @@
+--2016-07-25 17:59:50--  http://mirror.cogentco.com/pub/apache/cassandra/2.1.7/apache-cassandra-2.1.7-bin.tar.gz
+Resolving mirror.cogentco.com (mirror.cogentco.com)... 204.157.3.70
+Connecting to mirror.cogentco.com (mirror.cogentco.com)|204.157.3.70|:80... failed: Invalid argument.
